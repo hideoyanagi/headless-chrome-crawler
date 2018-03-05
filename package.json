@@ -1,6 +1,6 @@
 {
   "name": "headless-chrome-crawler",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "Distributed web crawler powered by Headless Chrome",
   "main": "index.js",
   "license": "MIT",
